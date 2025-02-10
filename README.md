@@ -49,3 +49,9 @@ GROUP BY
     account_session.operating_system;
 ```
 
+###Результат оптимізації:###
+До:
+![Execution Details Before](execution_before.png)
+
+Після:
+![Execution Details After](execution_after.png)
