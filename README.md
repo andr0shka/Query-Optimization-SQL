@@ -49,7 +49,7 @@ GROUP BY
     account_session.operating_system;
 ```
 
-###Результат оптимізації:###
+### Результат оптимізації:
 До:
 ![Execution Details Before](execution_before.png)
 
